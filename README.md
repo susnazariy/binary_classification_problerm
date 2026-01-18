@@ -141,7 +141,3 @@ In breast cancer diagnosis:
 - **False Negatives** (missing malignant tumors) are more dangerous than false positives
 - Models achieve **>97% recall** for the Benign class and **>91% recall** for Malignant
 - High ROC-AUC scores (>0.98) indicate excellent discriminative ability
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
